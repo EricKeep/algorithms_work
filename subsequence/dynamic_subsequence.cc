@@ -40,7 +40,7 @@ int main(int argc, char* argv[]){
     file_in.open(argv[1]);
     if (file_in.fail()){
       cout << "Failed to open file: " << argv[1] << endl;
-      exit(1);
+      exit(-1);
     }
     while (!file_in.eof()){
       int x;
