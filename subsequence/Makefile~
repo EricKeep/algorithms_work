@@ -1,7 +1,0 @@
-all: dynamic_subsequence
-
-dynamic_subsequence: 
-	g++ dynamic_subsequence.cc -o dynamic_subsequence
-
-clean: 
-	rm dynamic_subsequence
