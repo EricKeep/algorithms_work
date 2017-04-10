@@ -1,2 +1,2 @@
-# algorithms_work
-Some sample code written for CS 4040 Algorithms class during my undergrad
+# Sample code - Algorithms
+Some sample code written for my Algorithms class during my undergrad
